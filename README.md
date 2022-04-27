@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardstarwars0077.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning to code Dicord Bots!
+- 🌱 I’m currently learning to code Discord Bots!
 - 💞️ I’m looking for teachers.
 - 📫 How to reach me? Search eduardstarwars0077#0561 on Discord.
 - 💻 Currently coding with GitHub, replit, node.js, discord.js and Heroku
